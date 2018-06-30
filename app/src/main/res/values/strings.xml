@@ -6,8 +6,10 @@
     <string name="lbl_new_note_title">New Entry</string>
     <string name="lbl_edit_note_title">Edit Entry</string>
     <string name="hint_enter_note">Make an entry..</string>
-    <string name="login_info">You require a Google account. Sign in or create one</string>
+    <string name="login_info"><big>Welcome to The Journal</big>\n\nYou require a Google account to proceed. \n Sign in or create one</string>
+    <string name="account_instructions">Create a Google account</string>
+
     <string name="login_button">Sign in</string>
     <string name="register_button">Create Google account</string>
-    <string name="settings_info">Here you shall find means to set user profile, check data and storage use and customize the application\'s appearance</string>
+    <string name="settings_info">Here you shall find means to set user profile, check data and storage use, as well as customize the application\'s appearance</string>
 </resources>

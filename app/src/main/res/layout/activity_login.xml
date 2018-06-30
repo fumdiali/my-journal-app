@@ -22,29 +22,26 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
-        android:id="@+id/login_button"
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/sign_in_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="40dp"
-        android:background="@color/colorAccent"
-        android:text="@string/login_button"
-        android:textColor="#fff"
-        android:textSize="21sp"
+        android:layout_marginTop="20dp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/login_info"
-        android:onClick="launchApp"/>
+        app:layout_constraintTop_toBottomOf="@+id/login_info">
+
+    </com.google.android.gms.common.SignInButton>
 
     <Button
         android:id="@+id/register_button"
-        android:layout_width="match_parent"
+        android:layout_width="368dp"
         android:layout_height="wrap_content"
-        android:layout_marginStart="4dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="44dp"
         android:background="@color/colorPrimary"
         android:text="@string/register_button"
         android:textColor="#fff"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/login_button" />
+        app:layout_constraintTop_toBottomOf="@+id/sign_in_button" />
 
 </android.support.constraint.ConstraintLayout>

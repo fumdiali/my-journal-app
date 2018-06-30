@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.digirealis.thejournal">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -10,7 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".LoginActivity"
+            android:name=".UserAccountActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -21,8 +24,9 @@
         </activity>
         <activity android:name=".MainActivity" />
         <activity
-            android:parentActivityName=".MainActivity"
-            android:name=".SettingsActivity"></activity>
+            android:name=".SettingsActivity"
+            android:parentActivityName=".MainActivity" />
+
     </application>
 
 </manifest>
