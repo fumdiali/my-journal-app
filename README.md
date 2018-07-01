@@ -1,6 +1,8 @@
 # My Journal App
-<br/>
-This is my attempt at the 7 Days of code challenge - ALCWithGoogle 3.0
+<br/><br/>
+Profile name: <a href=""><b>BigPictureDisciple<b/></a>
+ <br/><br/>
+This is my attempt at the 7 Days of code challenge - ALCWithGoogle 3.0<br/>
 
 As per project instructions :-<br/> 
 <br/>
