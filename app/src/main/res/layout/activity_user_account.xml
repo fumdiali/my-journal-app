@@ -23,13 +23,14 @@
 
     <Button
         android:id="@+id/create_account_button"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@+id/google_button"
-        android:layout_alignParentStart="true"
-        android:layout_marginBottom="12dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="19dp"
         android:background="@color/colorAccent"
         android:text="Create account"
+        android:padding="12dp"
         android:textColor="#fff"
         android:textSize="24sp"
         android:textStyle="bold" />
@@ -37,11 +38,11 @@
 
     <com.google.android.gms.common.SignInButton
         android:id="@+id/google_button"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginBottom="95dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="88dp"
         android:textAlignment="center"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="347dp" />
