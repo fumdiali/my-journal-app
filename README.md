@@ -8,8 +8,8 @@ At minimum users should be able to:<br/>
  1.Register and Login using google authentication.<br/>
  2.View all entries to their diary.<br/>
  3.View the contents of a diary entry.<br/>
- 4.Add and modify an entry.<br/>
-I affirm that feature 1 is incomplete.<br/>
+ 4.Add and modify an entry.<br/><br/>
+I affirm that feature 1 is <b>INCOMPLETE</b>.<br/>
 
 ![alt text](home-screen.png "Screenshot of home screen")<br/>
 User is prompted to add entries on empty screen
