@@ -1,5 +1,5 @@
 # My Journal App
-![alt text](journalapp.png "Screenshot of landing screen")<br/>
+<br/>
 This is my attempt at the 7 Days of code challenge - ALCWithGoogle 3.0
 
 As per project instructions :-<br/> 
@@ -10,14 +10,18 @@ At minimum users should be able to:<br/>
  3.View the contents of a diary entry.<br/>
  4.Add and modify an entry.<br/><br/>
 I affirm that feature 1 is <b>INCOMPLETE</b>.<br/>
-
-![alt text](home-screen.png "Screenshot of home screen")<br/>
-User is prompted to add entries on empty screen
-<br/><br/>
+<br/>
+<br/>
 Minimal implementation: 
 User taps on CREATE ACCOUNT button, and gets directed to Google's 
 account creation page. After creating a Google account, user may return
-to app and sign-in via the Google sign-in button.<br/><br/>
+to app and sign-in via the Google sign-in button.<br/>
+![alt text](journalapp.png "Screenshot of landing screen")
+<br/><br/>
+![alt text](home-screen.png "Screenshot of home screen")<br/>
+User is prompted to add entries on empty screen
+<br/><br/>
+
 <br/>
 NOTE: This feature is incomplete, as there is NO AUTHENTICATION feature
 set.
