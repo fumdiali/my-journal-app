@@ -20,6 +20,8 @@ account creation page.<br/>
 ![alt text](google-account-screen.png "Screenshot of google screen")<br/>
 After creating a Google account, user may return
 to app and sign-in via the Google sign-in button
+<br/>
+![alt text](sign-button.png "Screenshot of sign-in")<br/>
 <br/><br/>
 ![alt text](home-screen.png "Screenshot of home screen")<br/>
 User is prompted to add entries on empty screen
