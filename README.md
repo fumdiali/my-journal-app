@@ -1,7 +1,7 @@
 # My Journal App
 <br/><br/>
 ALCWithGoogle3-slack 
-Profile name: <a href="#"><b>BigPictureDisciple<b/></a>
+Profile name: <b>BigPictureDisciple<b/>
  <br/><br/>
 This is my attempt at the 7 Days of code challenge - ALCWithGoogle 3.0<br/>
 
