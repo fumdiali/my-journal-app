@@ -1,15 +1,15 @@
 # My Journal App
-![alt text](journalapp.png "Screenshot of landing screen")
+![alt text](journalapp.png "Screenshot of landing screen")<br/>
 This is my attempt at the 7 Days of code challenge - ALCWithGoogle 3.0
 
-As per project instructions -\n 
-Application Functions:\n
-At minimum users should be able to:\n
- 1.Register and Login using google authentication.\n
- 2.View all entries to their diary.\n
- 3.View the contents of a diary entry.\n
- 4.Add and modify an entry.\n
-I affirm that feature 1 is incomplete.\n
+As per project instructions -<br/> 
+Application Functions:<br/>
+At minimum users should be able to:<br/>
+ 1.Register and Login using google authentication.<br/>
+ 2.View all entries to their diary.<br/>
+ 3.View the contents of a diary entry.<br/>
+ 4.Add and modify an entry.<br/>
+I affirm that feature 1 is incomplete.<br/>
 
 User is prompted to add entries on empty screen
 ![alt text](home-screen.png "Screenshot of home screen")
