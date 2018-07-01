@@ -25,6 +25,11 @@ account creation page.<br/>
 After creating a Google account, user may return
 to app and sign-in via the Google sign-in button
 <br/>
+
+NOTE: This feature is incomplete, as there is NO AUTHENTICATION feature
+set.
+<br/>
+
 ![alt text](sign-button.png "Screenshot of sign-in")<br/>
 <br/><br/>
 After successful authentication, user is brought to the "Home screen".<br/>
@@ -32,12 +37,8 @@ This will be empty, for new users(or if no entries have been saved).<br/>
 <br/>
 ![alt text](home-screen.png "Screenshot of home screen")<br/>
 User is prompted to add entries on empty screen
-<br/><br/>
+<br/>
 
-<br/>
-NOTE: This feature is incomplete, as there is NO AUTHENTICATION feature
-set.
-<br/>
 <br/><br/>
 Dialog box gives user means of adding journal entry and saving it<br/>
 
