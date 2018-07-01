@@ -10,9 +10,20 @@ At minimum users should be able to:
  4.Add and modify an entry.
 I affirm that feature 1 is incomplete.
 
+User is prompted to add entries on empty screen
+![alt text](home-screen.png "Screenshot of home screen")
 Minimal implementation: 
 User taps on CREATE ACCOUNT button, and gets directed to Google's 
 account creation page. Post successful creation, user may return
 to app and sign-in with the Google sign-in button.
 NOTE: This feature is incomplete, as there is NO AUTHENTICATION feature
 set.
+
+Dialog box gives user means of adding journal entry and saving it
+![alt text](create-entry-screen.png "Screenshot of landing screen")
+
+Entries are modifiable(Edit/Delete)
+![alt text](edit-entry.png "Screenshot of screen")
+
+Entries are displayed
+![alt text](added-entry.png "Screenshot of entry screen")
