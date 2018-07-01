@@ -20,6 +20,7 @@ User is requested to sign-in via the SIGN-IN button, using<br/>
 a Google account.If none exists,user may tap on CREATE ACCOUNT button, and is redirected to Google's 
 account creation page.<br/>
 ![alt text](journalapp.png "Screenshot of landing screen")<br/><br/>
+
 ![alt text](google-account-screen.png "Screenshot of google screen")<br/>
 After creating a Google account, user may return
 to app and sign-in via the Google sign-in button
@@ -43,7 +44,9 @@ Dialog box gives user means of adding journal entry and saving it<br/>
 <br/>
 Entries are modifiable(Edit/Delete)<br/>
 <b>LONG PRESS<b/> on the entry to call up "Select Action" menu<br/>
+ 
 ![alt text](delete-screen.png "delete entry screen")<br/>
+ 
 ![alt text](edit-entry.png "Screenshot of screen")<br/>
 
 Entries are displayed<br/>
