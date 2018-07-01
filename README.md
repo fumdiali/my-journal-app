@@ -1,7 +1,7 @@
 # My Journal App
 <br/><br/>
 ALCWithGoogle3-slack 
-Profile name: <a href=""><b>BigPictureDisciple<b/></a>
+Profile name: <a href="#"><b>BigPictureDisciple<b/></a>
  <br/><br/>
 This is my attempt at the 7 Days of code challenge - ALCWithGoogle 3.0<br/>
 
@@ -39,8 +39,8 @@ set.
 <br/>
 <br/><br/>
 Dialog box gives user means of adding journal entry and saving it<br/>
-![alt text](create-entry-screen.png "Screenshot of landing screen")
-
+![alt text](create-entry-screen.png "Screenshot of new entry screen")
+<br/>
 Entries are modifiable(Edit/Delete)<br/>
 <b>LONG PRESS<b/> on the entry to call up "Select Action" menu<br/>
 ![alt text](delete-screen.png "delete entry screen")<br/>
