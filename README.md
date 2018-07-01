@@ -27,6 +27,7 @@ Dialog box gives user means of adding journal entry and saving it<br/>
 ![alt text](create-entry-screen.png "Screenshot of landing screen")
 
 Entries are modifiable(Edit/Delete)<br/>
+<b>LONG PRESS<b/> on the entry to call up "Select Action" menu<br/>
 ![alt text](delete-screen.png "delete entry screen")<br/>
 ![alt text](edit-entry.png "Screenshot of screen")<br/>
 
