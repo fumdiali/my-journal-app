@@ -12,11 +12,12 @@ At minimum users should be able to:<br/>
 I affirm that feature 1 is <b>INCOMPLETE</b>.<br/>
 <br/>
 <br/>
-Minimal implementation: 
+Minimal implementation:<br/> 
 User taps on CREATE ACCOUNT button, and gets directed to Google's 
-account creation page. After creating a Google account, user may return
-to app and sign-in via the Google sign-in button.<br/>
-![alt text](journalapp.png "Screenshot of landing screen")
+account creation page. .<br/>
+![alt text](journalapp.png "Screenshot of landing screen")<br/>
+After creating a Google account, user may return
+to app and sign-in via the Google sign-in button
 <br/><br/>
 ![alt text](home-screen.png "Screenshot of home screen")<br/>
 User is prompted to add entries on empty screen
