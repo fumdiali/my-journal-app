@@ -27,3 +27,11 @@ Entries are modifiable(Edit/Delete)
 
 Entries are displayed
 ![alt text](added-entry.png "Screenshot of entry screen")
+
+There's a settings option intended
+![alt text](settings-menu.png "launch settings screen")
+
+User may customize app appearance(un-implemented)
+![alt text](settings-screen.png "Settings screen")
+
+Over all, the basic app functionalities(excluding authentication) were attempted successfully.
