@@ -23,6 +23,7 @@ Dialog box gives user means of adding journal entry and saving it
 ![alt text](create-entry-screen.png "Screenshot of landing screen")
 
 Entries are modifiable(Edit/Delete)
+![alt text](delete-screen.png "delete entry screen")
 ![alt text](edit-entry.png "Screenshot of screen")
 
 Entries are displayed
