@@ -40,6 +40,7 @@ set.
 <br/>
 <br/><br/>
 Dialog box gives user means of adding journal entry and saving it<br/>
+
 ![alt text](create-entry-screen.png "Screenshot of new entry screen")
 <br/>
 Entries are modifiable(Edit/Delete)<br/>
