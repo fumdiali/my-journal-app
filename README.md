@@ -16,7 +16,8 @@ Minimal implementation:<br/>
 User is requested to sign-in via the SIGN-IN button, using<br/>
 a Google account.If none exists,user may tap on CREATE ACCOUNT button, and is redirected to Google's 
 account creation page.<br/>
-![alt text](journalapp.png "Screenshot of landing screen")<br/>
+![alt text](journalapp.png "Screenshot of landing screen")<br/><br/>
+![alt text](google-account-screen.png "Screenshot of google screen")<br/>
 After creating a Google account, user may return
 to app and sign-in via the Google sign-in button
 <br/><br/>
