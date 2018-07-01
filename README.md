@@ -13,14 +13,16 @@ I affirm that feature 1 is incomplete.<br/>
 
 ![alt text](home-screen.png "Screenshot of home screen")<br/>
 User is prompted to add entries on empty screen
-<br/>
+<br/><br/>
 Minimal implementation: 
 User taps on CREATE ACCOUNT button, and gets directed to Google's 
-account creation page. Post successful creation, user may return
-to app and sign-in with the Google sign-in button.<br/>
+account creation page. After creating a Google account, user may return
+to app and sign-in via the Google sign-in button.<br/><br/>
+<br/>
 NOTE: This feature is incomplete, as there is NO AUTHENTICATION feature
 set.
 <br/>
+<br/><br/>
 Dialog box gives user means of adding journal entry and saving it<br/>
 ![alt text](create-entry-screen.png "Screenshot of landing screen")
 
@@ -38,3 +40,5 @@ User may customize app appearance(un-implemented)<br/>
 ![alt text](settings-screen.png "Settings screen")<br/>
 
 Over all, I concede that I was unable to successfully meet all the minimum requirements within the afforded time.
+<br/>
+I utilize SQLite3 for the app, however I must state that I'd looked into using Firebase. 
