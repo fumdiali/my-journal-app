@@ -11,12 +11,13 @@ At minimum users should be able to:<br/>
  4.Add and modify an entry.<br/>
 I affirm that feature 1 is incomplete.<br/>
 
-User is prompted to add entries on empty screen
 ![alt text](home-screen.png "Screenshot of home screen")<br/>
+User is prompted to add entries on empty screen
+<br/>
 Minimal implementation: 
 User taps on CREATE ACCOUNT button, and gets directed to Google's 
 account creation page. Post successful creation, user may return
-to app and sign-in with the Google sign-in button.
+to app and sign-in with the Google sign-in button.<br/>
 NOTE: This feature is incomplete, as there is NO AUTHENTICATION feature
 set.
 <br/>
@@ -36,4 +37,4 @@ There's a settings option intended<br/>
 User may customize app appearance(un-implemented)<br/>
 ![alt text](settings-screen.png "Settings screen")<br/>
 
-Over all, the basic app functionalities(excluding authentication) were attempted successfully.
+Over all, I concede that I was unable to successfully meet all the minimum requirements within the afforded time.
