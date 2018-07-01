@@ -12,9 +12,10 @@ At minimum users should be able to:<br/>
 I affirm that feature 1 is <b>INCOMPLETE</b>.<br/>
 <br/>
 <br/>
-Minimal implementation:<br/> 
-User taps on CREATE ACCOUNT button, and gets directed to Google's 
-account creation page. .<br/>
+Minimal implementation:<br/>
+User is requested to sign-in via the SIGN-IN button, using<br/>
+a Google account.If none exists,user may tap on CREATE ACCOUNT button, and is redirected to Google's 
+account creation page.<br/>
 ![alt text](journalapp.png "Screenshot of landing screen")<br/>
 After creating a Google account, user may return
 to app and sign-in via the Google sign-in button
